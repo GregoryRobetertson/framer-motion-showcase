@@ -1,5 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Components
+Cityscape: This component renders a cityscape view.
+MountainView: This component renders a mountain view.
+ForestPath: This component renders a forest path view.
+Styling
+To enhance the visual appeal of the components, the following techniques and frameworks are utilized: Framer Motion and it offers a declarative way to create animations in React components, including transitions between different states.
+
+CSS Grid Layout
+The layout of the Home component is achieved using CSS Grid, allowing for a responsive grid-based layout with multiple columns. CSS Grid provides flexibility and control over the positioning of elements within the layout, enabling the creation of complex grid structures with ease.
+
+
+
 ## Getting Started
 
 First, run the development server:
